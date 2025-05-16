@@ -1,0 +1,29 @@
+body {
+    #container {
+        display:flex ;
+    }
+    background-color: bisque;
+    font-family: Bai Jamjuree;
+    .cartao {
+        margin: 1rem 1rem;
+        flex-grow: 1;
+    flex-basis: calc(33% -6rem);
+    }
+}
+footer {
+    footer p{
+        text-align: center;
+        font-size: 0.6rem;
+        margin-top: 0,5rem;
+    }
+    background-color: black;
+    color: white;
+    bottom:0;
+    position:fixed;
+    width:100%;
+    height:20rem;
+    .cartao__conteudo {
+        text-align: center;
+        height: 100%;
+    }
+}
