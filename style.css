@@ -2,7 +2,7 @@ body {
     #container {
         display:flex ;
     }
-    background-color: rgb(240, 220, 156);
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoXvAA7-DcU6zzGspGdG0_C3nOQHNxd_0_FA&s');
     font-family: Bai Jamjuree;
     .cartao {
         margin: 1rem 1rem;
