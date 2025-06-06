@@ -1,7 +1,7 @@
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: #000000;
+    --card-front-color: #a8a8a8;
+    --card-back-color: #000000;
 }
 body {
     background: url('img/bg-desktop.webp');
@@ -24,7 +24,7 @@ flex-basis: calc(33% -6rem);
     background-color: var(--card-front-color);
 }
 .cartao__conteudo h3 {
-    background-color: tomato;
+    background-color: rgb(149, 240, 217);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
