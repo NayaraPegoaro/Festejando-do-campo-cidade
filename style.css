@@ -2,7 +2,7 @@ body {
     #container {
         display:flex ;
     }
-    background: url('https://br.freepik.com/vetores-gratis/design-de-fundo-desfocado_911035.htm#fromView=keyword&page=1&position=44&uuid=d4518b1e-0c0c-4684-8aea-8f8c5ee4bbc2&query=Gradiente+Do+Por+Do+Sol');
+    background: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
     .cartao {
         margin: 1rem 1rem;
